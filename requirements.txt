@@ -88,7 +88,7 @@ platformdirs==3.2.0
 preshed==3.0.8
 prometheus-client==0.16.0
 prompt-toolkit==3.0.38
-psutil==5.9.4
+psutil==6.0.0
 ptyprocess==0.7.0
 pure-eval==0.2.2
 pycparser==2.21
@@ -139,6 +139,6 @@ webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.5.1
 weightedstats==0.4.1
-wordcloud==1.8.2.2
+wordcloud==1.9.3
 y-py==0.5.9
 ypy-websocket==0.8.2
